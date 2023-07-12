@@ -1,3 +1,8 @@
+# Log files / runtime
+.log
+.lock
+.temp
+
 # Windows OS file
 thumbs.db
  
